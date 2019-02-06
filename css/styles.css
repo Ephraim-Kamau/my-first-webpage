@@ -1,0 +1,20 @@
+h1  {
+  color: blue;
+  text-align: center
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+  line-height: inherit;
+}
+p {
+  font-family: sans-serif;
+  font-style: strong;
+}
+ul {
+  line-height: 40px;
+}
+body {
+  background-color: yellow;
+}
